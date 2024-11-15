@@ -1,0 +1,20 @@
+// Signin
+
+// Signup
+
+ {
+    "id": "1",
+    "username": "admin",
+    "password": "adminpass",
+    "role": "Admin"
+}
+  {
+    "id": "2",
+    "username": "user",
+    "password": "userpass"
+    "role": "User",
+  }
+
+// authorize routes with checkRole function
+
+// authorize routes with authorize function
